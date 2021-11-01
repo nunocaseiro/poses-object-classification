@@ -1,0 +1,55 @@
+
+T
+java:S1874."9Remove this use of "PreferenceManager"; it is deprecated.(é¤ó·ûÿÿÿÿ
+^
+java:S1874."CRemove this use of "getDefaultSharedPreferences"; it is deprecated.(é¤ó·ûÿÿÿÿ
+O
+java:S1874D"9Remove this use of "PreferenceManager"; it is deprecated.(Òş£Â
+Y
+java:S1874D"CRemove this use of "getDefaultSharedPreferences"; it is deprecated.(Òş£Â
+O
+java:S1874W"9Remove this use of "PreferenceManager"; it is deprecated.(Òş£Â
+Y
+java:S1874W"CRemove this use of "getDefaultSharedPreferences"; it is deprecated.(Òş£Â
+O
+java:S1874f"9Remove this use of "PreferenceManager"; it is deprecated.(Òş£Â
+Y
+java:S1874f"CRemove this use of "getDefaultSharedPreferences"; it is deprecated.(Òş£Â
+O
+java:S1874y"9Remove this use of "PreferenceManager"; it is deprecated.(Òş£Â
+Y
+java:S1874y"CRemove this use of "getDefaultSharedPreferences"; it is deprecated.(Òş£Â
+|
+java:S3252‡"`Use static access with "com.google.mlkit.vision.pose.PoseDetectorOptionsBase" for "STREAM_MODE".(¾ú¦ãúÿÿÿÿ
+|
+java:S3252‹"`Use static access with "com.google.mlkit.vision.pose.PoseDetectorOptionsBase" for "STREAM_MODE".(É£Œéıÿÿÿÿ
+P
+java:S1874‘"9Remove this use of "PreferenceManager"; it is deprecated.(Òş£Â
+Z
+java:S1874‘"CRemove this use of "getDefaultSharedPreferences"; it is deprecated.(Òş£Â
+P
+java:S1874˜"9Remove this use of "PreferenceManager"; it is deprecated.(Òş£Â
+Z
+java:S1874˜"CRemove this use of "getDefaultSharedPreferences"; it is deprecated.(Òş£Â
+P
+java:S1874Ÿ"9Remove this use of "PreferenceManager"; it is deprecated.(Òş£Â
+Z
+java:S1874Ÿ"CRemove this use of "getDefaultSharedPreferences"; it is deprecated.(Òş£Â
+P
+java:S1874¥"9Remove this use of "PreferenceManager"; it is deprecated.(Òş£Â
+Z
+java:S1874¥"CRemove this use of "getDefaultSharedPreferences"; it is deprecated.(Òş£Â
+W
+java:S1874«"9Remove this use of "PreferenceManager"; it is deprecated.(Òş£Â8ªàˆ¤/
+a
+java:S1874«"CRemove this use of "getDefaultSharedPreferences"; it is deprecated.(Òş£Â8‘ªàˆ¤/
+‚
+java:S3252·"eUse static access with "com.google.mlkit.vision.objects.ObjectDetectorOptionsBase" for "STREAM_MODE".(üŠ¼8ñö¼œ¥/
+W
+java:S1874Á"9Remove this use of "PreferenceManager"; it is deprecated.(Òş£Â8’ªàˆ¤/
+a
+java:S1874Á"CRemove this use of "getDefaultSharedPreferences"; it is deprecated.(Òş£Â8’ªàˆ¤/
+W
+java:S1874Ç"9Remove this use of "PreferenceManager"; it is deprecated.(Òş£Â8¦…¾œ¥/
+a
+java:S1874Ç"CRemove this use of "getDefaultSharedPreferences"; it is deprecated.(Òş£Â8¦…¾œ¥/

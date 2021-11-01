@@ -1,0 +1,51 @@
+
+v
+java:S1128!"TRemove this unnecessary import: same package classes are always implicitly imported.(ë¡Ùêüÿÿÿÿ8‰ÅæŞ£/
+v
+java:S1128!"TRemove this unnecessary import: same package classes are always implicitly imported.(âôÇÊøÿÿÿÿ8‰ÅæŞ£/
+P
+java:S1874,":Remove this use of "PreferenceCategory"; it is deprecated.(ŠÑóÀ
+U
+java:S1874-":Remove this use of "PreferenceCategory"; it is deprecated.(œ·„äùÿÿÿÿ
+X
+java:S1874-"6Remove this use of "findPreference"; it is deprecated.(œ·„äùÿÿÿÿ8ÇîŠß£/
+S
+java:S1874-"1Remove this use of "getString"; it is deprecated.(œ·„äùÿÿÿÿ8ÈîŠß£/
+N
+java:S1874/"8Remove this use of "removePreference"; it is deprecated.(ÔŠÙè
+X
+java:S18740"6Remove this use of "findPreference"; it is deprecated.(°”†ùÿÿÿÿ8ÉîŠß£/
+S
+java:S18740"1Remove this use of "getString"; it is deprecated.(°”†ùÿÿÿÿ8ÉîŠß£/
+N
+java:S18741"8Remove this use of "removePreference"; it is deprecated.(ÔŠÙè
+X
+java:S18742"6Remove this use of "findPreference"; it is deprecated.(è¾ê„ÿÿÿÿÿ8ÊîŠß£/
+S
+java:S18742"1Remove this use of "getString"; it is deprecated.(è¾ê„ÿÿÿÿÿ8ÊîŠß£/
+Q
+java:S1874;"6Remove this use of "ListPreference"; it is deprecated.(ì²øåøÿÿÿÿ
+Q
+java:S1874;"6Remove this use of "ListPreference"; it is deprecated.(ì²øåøÿÿÿÿ
+X
+java:S1874;"6Remove this use of "findPreference"; it is deprecated.(ì²øåøÿÿÿÿ8ÎîŠß£/
+S
+java:S1874;"1Remove this use of "getString"; it is deprecated.(ì²øåøÿÿÿÿ8ÎîŠß£/
+P
+java:S1874<"3Remove this use of "getActivity"; it is deprecated.(×©–»8ÎîŠß£/
+M
+java:S1874T"2Remove this use of "setEntries"; it is deprecated.(¹àèªúÿÿÿÿ
+L
+java:S1874U"6Remove this use of "setEntryValues"; it is deprecated.(ƒƒ‚ì
+H
+java:S1874V"2Remove this use of "setSummary"; it is deprecated.( İŒ®
+F
+java:S1874V"0Remove this use of "getEntry"; it is deprecated.( İŒ®
+F
+java:S1874V"0Remove this use of "getEntry"; it is deprecated.( İŒ®
+[
+java:S1874W"ERemove this use of "setOnPreferenceChangeListener"; it is deprecated.(²Í¤
+H
+java:S1874Z"2Remove this use of "setSummary"; it is deprecated.(è²Ô€
+U
+java:S1874["3Remove this use of "getActivity"; it is deprecated.(úğ­«üÿÿÿÿ8ÔîŠß£/
